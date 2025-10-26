@@ -1,0 +1,4 @@
+include:
+  - local: 'authentication-services/.gitlab-ci.yml'
+  - local: 'user-services/.gitlab-ci.yml'
+  - local: 'product-services/.gitlab-ci.yml'
